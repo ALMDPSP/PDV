@@ -1,0 +1,29 @@
+Cliente: Alexandre
+
+Itens:
+COCA - COLA 269ML (x2) - R$10,00
+FANTA LARANJA 269ML (x2) - R$10,00
+FANTA UVA 2L (x1) - R$18,00
+CERVEJA CORONA 269ML (x10) - R$80,00
+
+Subtotal: R$118,00
+Cliente: ALEXANDRE
+
+Itens:
+CERVEJA CORONA 269ML (x2) - R$16,00
+COCA - COLA 269ML (x3) - R$15,00
+FANTA LARANJA 269ML (x5) - R$25,00
+
+Subtotal: R$56,00
+Cliente: ALEXANDRE
+
+Itens:
+FANTA LARANJA 269ML (x1) - R$5,00
+
+Subtotal: R$5,00
+Cliente: Alexandre
+
+Itens:
+COCA - COLA 269ML (x10) - R$50,00
+
+Subtotal: R$50,00
